@@ -40,7 +40,7 @@ conda create -n omni_journal python=3.10
 conda activate omni_journal
 
 # Clone the repository
-git clone [https://github.com/yourusername/OmniJournal.git](https://github.com/yourusername/OmniJournal.git)
+git clone [https://github.com/Haoran2099/OmniJournal.git](https://github.com/Haoran2099/OmniJournal.git)
 cd OmniJournal
 
 ```
